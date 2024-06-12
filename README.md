@@ -63,6 +63,12 @@ $ npm run test:cov
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
 ## Stay in touch
+DATABASE schema
+![ptc](https://github.com/shantanuborade007/ptc-assingment/assets/87964277/0164f2ef-635c-408c-b586-8a847e516a44)
+
+FLOW (Monolithic Architure)
+![image](https://github.com/shantanuborade007/ptc-assingment/assets/87964277/f75dbfeb-d620-4b92-9c99-00b1a222ecc5)
+
 
 - Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
 - Website - [https://nestjs.com](https://nestjs.com/)
